@@ -9,3 +9,4 @@ Ok, som now I am codding my app to take over the world.
 
 now i write even more code
 
+So now I am doing another edits, or should I reate new branch?
